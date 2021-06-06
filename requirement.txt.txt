@@ -1,0 +1,13 @@
+praw
+tqdm
+pandas
+numpy
+random
+spacy
+nltk
+en_core_web_sm
+gensim
+networkx
+mathplotlib
+sklearn
+lightgbm
